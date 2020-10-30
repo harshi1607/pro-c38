@@ -1,3 +1,2 @@
-# trex
-chrome trex game created using p5
-https://payelbera.github.io/trex/
+#jockeyRide
+https://harshi1607.github.io/pro-c38/
